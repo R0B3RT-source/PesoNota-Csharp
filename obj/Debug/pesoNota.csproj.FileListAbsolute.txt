@@ -1,0 +1,10 @@
+C:\Users\Desktop\source\repos\pesoNota\bin\Debug\pesoNota.exe.config
+C:\Users\Desktop\source\repos\pesoNota\bin\Debug\pesoNota.exe
+C:\Users\Desktop\source\repos\pesoNota\bin\Debug\pesoNota.pdb
+C:\Users\Desktop\source\repos\pesoNota\obj\Debug\pesoNota.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\pesoNota\obj\Debug\pesoNota.Form1.resources
+C:\Users\Desktop\source\repos\pesoNota\obj\Debug\pesoNota.Properties.Resources.resources
+C:\Users\Desktop\source\repos\pesoNota\obj\Debug\pesoNota.csproj.GenerateResource.cache
+C:\Users\Desktop\source\repos\pesoNota\obj\Debug\pesoNota.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\pesoNota\obj\Debug\pesoNota.exe
+C:\Users\Desktop\source\repos\pesoNota\obj\Debug\pesoNota.pdb
